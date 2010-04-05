@@ -1,187 +1,12 @@
 digraph RGL__DirectedAdjacencyGraph {
-    "Country40/City1" [
+    "Country25/City7" [
         fontsize = 8,
-        label = "Country40/City1"
+        label = "Country25/City7"
     ]
 
-    "Country38/City3" [
+    "Country23/City9" [
         fontsize = 8,
-        label = "Country38/City3"
-    ]
-
-    "Country37/City2" [
-        fontsize = 8,
-        label = "Country37/City2"
-    ]
-
-    "Country18/City1" [
-        fontsize = 8,
-        label = "Country18/City1"
-    ]
-
-    "Country16/City3" [
-        fontsize = 8,
-        label = "Country16/City3"
-    ]
-
-    "Country11/City1" [
-        fontsize = 8,
-        label = "Country11/City1"
-    ]
-
-    "Country17/City2" [
-        fontsize = 8,
-        label = "Country17/City2"
-    ]
-
-    "Country41/City1" [
-        fontsize = 8,
-        label = "Country41/City1"
-    ]
-
-    "Country37/City3" [
-        fontsize = 8,
-        label = "Country37/City3"
-    ]
-
-    "Country28/City1" [
-        fontsize = 8,
-        label = "Country28/City1"
-    ]
-
-    "Country21/City1" [
-        fontsize = 8,
-        label = "Country21/City1"
-    ]
-
-    "Country18/City2" [
-        fontsize = 8,
-        label = "Country18/City2"
-    ]
-
-    "Country11/City2" [
-        fontsize = 8,
-        label = "Country11/City2"
-    ]
-
-    "Country43/City1" [
-        fontsize = 8,
-        label = "Country43/City1"
-    ]
-
-    "Country43/City2" [
-        fontsize = 8,
-        label = "Country43/City2"
-    ]
-
-    "Country42/City1" [
-        fontsize = 8,
-        label = "Country42/City1"
-    ]
-
-    "Country29/City1" [
-        fontsize = 8,
-        label = "Country29/City1"
-    ]
-
-    "Country26/City6" [
-        fontsize = 8,
-        label = "Country26/City6"
-    ]
-
-    "Country20/City1" [
-        fontsize = 8,
-        label = "Country20/City1"
-    ]
-
-    "Country17/City4" [
-        fontsize = 8,
-        label = "Country17/City4"
-    ]
-
-    "Country3/City1" [
-        fontsize = 8,
-        label = "Country3/City1"
-    ]
-
-    "Country43/City3" [
-        fontsize = 8,
-        label = "Country43/City3"
-    ]
-
-    "Country32/City1" [
-        fontsize = 8,
-        label = "Country32/City1"
-    ]
-
-    "Country30/City1" [
-        fontsize = 8,
-        label = "Country30/City1"
-    ]
-
-    "Country10/City1" [
-        fontsize = 8,
-        label = "Country10/City1"
-    ]
-
-    "Country8/City1" [
-        fontsize = 8,
-        label = "Country8/City1"
-    ]
-
-    "Country5/City2" [
-        fontsize = 8,
-        label = "Country5/City2"
-    ]
-
-    "Country4/City1" [
-        fontsize = 8,
-        label = "Country4/City1"
-    ]
-
-    "Country35/City1" [
-        fontsize = 8,
-        label = "Country35/City1"
-    ]
-
-    "Country33/City1" [
-        fontsize = 8,
-        label = "Country33/City1"
-    ]
-
-    "Country31/City1" [
-        fontsize = 8,
-        label = "Country31/City1"
-    ]
-
-    "Country43/City4" [
-        fontsize = 8,
-        label = "Country43/City4"
-    ]
-
-    "Country13/City1" [
-        fontsize = 8,
-        label = "Country13/City1"
-    ]
-
-    "Country9/City1" [
-        fontsize = 8,
-        label = "Country9/City1"
-    ]
-
-    "Country7/City1" [
-        fontsize = 8,
-        label = "Country7/City1"
-    ]
-
-    "Country33/City2" [
-        fontsize = 8,
-        label = "Country33/City2"
-    ]
-
-    "Country34/City1" [
-        fontsize = 8,
-        label = "Country34/City1"
+        label = "Country23/City9"
     ]
 
     "Country14/City1" [
@@ -189,54 +14,14 @@ digraph RGL__DirectedAdjacencyGraph {
         label = "Country14/City1"
     ]
 
-    "Country24/City1" [
+    "Country15/City7" [
         fontsize = 8,
-        label = "Country24/City1"
+        label = "Country15/City7"
     ]
 
-    "Country22/City1" [
+    "Country16/City5" [
         fontsize = 8,
-        label = "Country22/City1"
-    ]
-
-    "Country31/City3" [
-        fontsize = 8,
-        label = "Country31/City3"
-    ]
-
-    "Country12/City2" [
-        fontsize = 8,
-        label = "Country12/City2"
-    ]
-
-    "Country27/City1" [
-        fontsize = 8,
-        label = "Country27/City1"
-    ]
-
-    "Country25/City1" [
-        fontsize = 8,
-        label = "Country25/City1"
-    ]
-
-    "Country23/City1" [
-        fontsize = 8,
-        label = "Country23/City1"
-    ]
-
-    "Country12/City3" [
-        fontsize = 8,
-        label = "Country12/City3"
-    ]
-
-    "Country26/City1" [
-        fontsize = 8,
-        label = "Country26/City1"
-    ]
-
-    "Country24/City3" [
-        fontsize = 8,
-        label = "Country24/City3"
+        label = "Country16/City5"
     ]
 
     "Country2/City1" [
@@ -244,39 +29,199 @@ digraph RGL__DirectedAdjacencyGraph {
         label = "Country2/City1"
     ]
 
-    "Country38/City1" [
+    "Country3/City7" [
         fontsize = 8,
-        label = "Country38/City1"
+        label = "Country3/City7"
     ]
 
-    "Country36/City1" [
+    "Country29/City1" [
         fontsize = 8,
-        label = "Country36/City1"
+        label = "Country29/City1"
     ]
 
-    "Country16/City1" [
+    "Country25/City8" [
         fontsize = 8,
-        label = "Country16/City1"
+        label = "Country25/City8"
     ]
 
-    "Country1/City1" [
+    "Country15/City8" [
         fontsize = 8,
-        label = "Country1/City1"
+        label = "Country15/City8"
     ]
 
-    "Country39/City1" [
+    "Country2/City2" [
         fontsize = 8,
-        label = "Country39/City1"
+        label = "Country2/City2"
     ]
 
-    "Country19/City1" [
+    "Country3/City8" [
         fontsize = 8,
-        label = "Country19/City1"
+        label = "Country3/City8"
     ]
 
-    "Country15/City1" [
+    "Country29/City2" [
         fontsize = 8,
-        label = "Country15/City1"
+        label = "Country29/City2"
+    ]
+
+    "Country25/City9" [
+        fontsize = 8,
+        label = "Country25/City9"
+    ]
+
+    "Country2/City3" [
+        fontsize = 8,
+        label = "Country2/City3"
+    ]
+
+    "Country30/City1" [
+        fontsize = 8,
+        label = "Country30/City1"
+    ]
+
+    "Country2/City4" [
+        fontsize = 8,
+        label = "Country2/City4"
+    ]
+
+    "Country30/City2" [
+        fontsize = 8,
+        label = "Country30/City2"
+    ]
+
+    "Country30/City3" [
+        fontsize = 8,
+        label = "Country30/City3"
+    ]
+
+    "Country22/City1" [
+        fontsize = 8,
+        label = "Country22/City1"
+    ]
+
+    "Country22/City2" [
+        fontsize = 8,
+        label = "Country22/City2"
+    ]
+
+    "Country22/City3" [
+        fontsize = 8,
+        label = "Country22/City3"
+    ]
+
+    "Country7/City1" [
+        fontsize = 8,
+        label = "Country7/City1"
+    ]
+
+    "Country22/City4" [
+        fontsize = 8,
+        label = "Country22/City4"
+    ]
+
+    "Country7/City2" [
+        fontsize = 8,
+        label = "Country7/City2"
+    ]
+
+    "Country20/City1" [
+        fontsize = 8,
+        label = "Country20/City1"
+    ]
+
+    "Country22/City5" [
+        fontsize = 8,
+        label = "Country22/City5"
+    ]
+
+    "Country8/City1" [
+        fontsize = 8,
+        label = "Country8/City1"
+    ]
+
+    "Country7/City3" [
+        fontsize = 8,
+        label = "Country7/City3"
+    ]
+
+    "Country20/City2" [
+        fontsize = 8,
+        label = "Country20/City2"
+    ]
+
+    "Country8/City2" [
+        fontsize = 8,
+        label = "Country8/City2"
+    ]
+
+    "Country7/City4" [
+        fontsize = 8,
+        label = "Country7/City4"
+    ]
+
+    "Country20/City3" [
+        fontsize = 8,
+        label = "Country20/City3"
+    ]
+
+    "Country21/City1" [
+        fontsize = 8,
+        label = "Country21/City1"
+    ]
+
+    "Country12/City1" [
+        fontsize = 8,
+        label = "Country12/City1"
+    ]
+
+    "Country8/City3" [
+        fontsize = 8,
+        label = "Country8/City3"
+    ]
+
+    "Country7/City5" [
+        fontsize = 8,
+        label = "Country7/City5"
+    ]
+
+    "Country20/City4" [
+        fontsize = 8,
+        label = "Country20/City4"
+    ]
+
+    "Country21/City2" [
+        fontsize = 8,
+        label = "Country21/City2"
+    ]
+
+    "Country12/City2" [
+        fontsize = 8,
+        label = "Country12/City2"
+    ]
+
+    "Country8/City4" [
+        fontsize = 8,
+        label = "Country8/City4"
+    ]
+
+    "Country7/City6" [
+        fontsize = 8,
+        label = "Country7/City6"
+    ]
+
+    "Country21/City3" [
+        fontsize = 8,
+        label = "Country21/City3"
+    ]
+
+    "Country13/City1" [
+        fontsize = 8,
+        label = "Country13/City1"
+    ]
+
+    "Country12/City3" [
+        fontsize = 8,
+        label = "Country12/City3"
     ]
 
     "Country6/City1" [
@@ -284,23 +229,920 @@ digraph RGL__DirectedAdjacencyGraph {
         label = "Country6/City1"
     ]
 
-    "Country40/City1" -> "Country43/City4" [
+    "Country8/City5" [
+        fontsize = 8,
+        label = "Country8/City5"
+    ]
+
+    "Country7/City7" [
+        fontsize = 8,
+        label = "Country7/City7"
+    ]
+
+    "Country28/City1" [
+        fontsize = 8,
+        label = "Country28/City1"
+    ]
+
+    "Country21/City4" [
+        fontsize = 8,
+        label = "Country21/City4"
+    ]
+
+    "Country12/City4" [
+        fontsize = 8,
+        label = "Country12/City4"
+    ]
+
+    "Country6/City2" [
+        fontsize = 8,
+        label = "Country6/City2"
+    ]
+
+    "Country7/City8" [
+        fontsize = 8,
+        label = "Country7/City8"
+    ]
+
+    "Country8/City6" [
+        fontsize = 8,
+        label = "Country8/City6"
+    ]
+
+    "Country28/City2" [
+        fontsize = 8,
+        label = "Country28/City2"
+    ]
+
+    "Country21/City5" [
+        fontsize = 8,
+        label = "Country21/City5"
+    ]
+
+    "Country12/City5" [
+        fontsize = 8,
+        label = "Country12/City5"
+    ]
+
+    "Country6/City3" [
+        fontsize = 8,
+        label = "Country6/City3"
+    ]
+
+    "Country8/City7" [
+        fontsize = 8,
+        label = "Country8/City7"
+    ]
+
+    "Country34/City1" [
+        fontsize = 8,
+        label = "Country34/City1"
+    ]
+
+    "Country28/City3" [
+        fontsize = 8,
+        label = "Country28/City3"
+    ]
+
+    "Country6/City4" [
+        fontsize = 8,
+        label = "Country6/City4"
+    ]
+
+    "Country7/City9" [
+        fontsize = 8,
+        label = "Country7/City9"
+    ]
+
+    "Country21/City6" [
+        fontsize = 8,
+        label = "Country21/City6"
+    ]
+
+    "Country34/City2" [
+        fontsize = 8,
+        label = "Country34/City2"
+    ]
+
+    "Country28/City4" [
+        fontsize = 8,
+        label = "Country28/City4"
+    ]
+
+    "Country6/City5" [
+        fontsize = 8,
+        label = "Country6/City5"
+    ]
+
+    "Country21/City7" [
+        fontsize = 8,
+        label = "Country21/City7"
+    ]
+
+    "Country11/City1" [
+        fontsize = 8,
+        label = "Country11/City1"
+    ]
+
+    "Country35/City1" [
+        fontsize = 8,
+        label = "Country35/City1"
+    ]
+
+    "Country34/City3" [
+        fontsize = 8,
+        label = "Country34/City3"
+    ]
+
+    "Country28/City5" [
+        fontsize = 8,
+        label = "Country28/City5"
+    ]
+
+    "Country26/City1" [
+        fontsize = 8,
+        label = "Country26/City1"
+    ]
+
+    "Country6/City6" [
+        fontsize = 8,
+        label = "Country6/City6"
+    ]
+
+    "Country4/City1" [
+        fontsize = 8,
+        label = "Country4/City1"
+    ]
+
+    "Country21/City8" [
+        fontsize = 8,
+        label = "Country21/City8"
+    ]
+
+    "Country11/City2" [
+        fontsize = 8,
+        label = "Country11/City2"
+    ]
+
+    "Country35/City2" [
+        fontsize = 8,
+        label = "Country35/City2"
+    ]
+
+    "Country34/City4" [
+        fontsize = 8,
+        label = "Country34/City4"
+    ]
+
+    "Country28/City6" [
+        fontsize = 8,
+        label = "Country28/City6"
+    ]
+
+    "Country26/City2" [
+        fontsize = 8,
+        label = "Country26/City2"
+    ]
+
+    "Country6/City7" [
+        fontsize = 8,
+        label = "Country6/City7"
+    ]
+
+    "Country4/City2" [
+        fontsize = 8,
+        label = "Country4/City2"
+    ]
+
+    "Country11/City3" [
+        fontsize = 8,
+        label = "Country11/City3"
+    ]
+
+    "Country35/City3" [
+        fontsize = 8,
+        label = "Country35/City3"
+    ]
+
+    "Country34/City5" [
+        fontsize = 8,
+        label = "Country34/City5"
+    ]
+
+    "Country28/City7" [
+        fontsize = 8,
+        label = "Country28/City7"
+    ]
+
+    "Country27/City1" [
+        fontsize = 8,
+        label = "Country27/City1"
+    ]
+
+    "Country26/City3" [
+        fontsize = 8,
+        label = "Country26/City3"
+    ]
+
+    "Country17/City1" [
+        fontsize = 8,
+        label = "Country17/City1"
+    ]
+
+    "Country18/City1" [
+        fontsize = 8,
+        label = "Country18/City1"
+    ]
+
+    "Country5/City1" [
+        fontsize = 8,
+        label = "Country5/City1"
+    ]
+
+    "Country4/City3" [
+        fontsize = 8,
+        label = "Country4/City3"
+    ]
+
+    "Country11/City4" [
+        fontsize = 8,
+        label = "Country11/City4"
+    ]
+
+    "Country35/City4" [
+        fontsize = 8,
+        label = "Country35/City4"
+    ]
+
+    "Country28/City8" [
+        fontsize = 8,
+        label = "Country28/City8"
+    ]
+
+    "Country27/City2" [
+        fontsize = 8,
+        label = "Country27/City2"
+    ]
+
+    "Country26/City4" [
+        fontsize = 8,
+        label = "Country26/City4"
+    ]
+
+    "Country17/City2" [
+        fontsize = 8,
+        label = "Country17/City2"
+    ]
+
+    "Country18/City2" [
+        fontsize = 8,
+        label = "Country18/City2"
+    ]
+
+    "Country5/City2" [
+        fontsize = 8,
+        label = "Country5/City2"
+    ]
+
+    "Country35/City5" [
+        fontsize = 8,
+        label = "Country35/City5"
+    ]
+
+    "Country27/City3" [
+        fontsize = 8,
+        label = "Country27/City3"
+    ]
+
+    "Country26/City5" [
+        fontsize = 8,
+        label = "Country26/City5"
+    ]
+
+    "Country18/City3" [
+        fontsize = 8,
+        label = "Country18/City3"
+    ]
+
+    "Country19/City1" [
+        fontsize = 8,
+        label = "Country19/City1"
+    ]
+
+    "Country5/City3" [
+        fontsize = 8,
+        label = "Country5/City3"
+    ]
+
+    "Country17/City3" [
+        fontsize = 8,
+        label = "Country17/City3"
+    ]
+
+    "Country27/City4" [
+        fontsize = 8,
+        label = "Country27/City4"
+    ]
+
+    "Country18/City4" [
+        fontsize = 8,
+        label = "Country18/City4"
+    ]
+
+    "Country19/City2" [
+        fontsize = 8,
+        label = "Country19/City2"
+    ]
+
+    "Country17/City4" [
+        fontsize = 8,
+        label = "Country17/City4"
+    ]
+
+    "Country27/City5" [
+        fontsize = 8,
+        label = "Country27/City5"
+    ]
+
+    "Country10/City1" [
+        fontsize = 8,
+        label = "Country10/City1"
+    ]
+
+    "Country19/City3" [
+        fontsize = 8,
+        label = "Country19/City3"
+    ]
+
+    "Country17/City5" [
+        fontsize = 8,
+        label = "Country17/City5"
+    ]
+
+    "Country27/City6" [
+        fontsize = 8,
+        label = "Country27/City6"
+    ]
+
+    "Country10/City2" [
+        fontsize = 8,
+        label = "Country10/City2"
+    ]
+
+    "Country19/City4" [
+        fontsize = 8,
+        label = "Country19/City4"
+    ]
+
+    "Country10/City3" [
+        fontsize = 8,
+        label = "Country10/City3"
+    ]
+
+    "Country19/City5" [
+        fontsize = 8,
+        label = "Country19/City5"
+    ]
+
+    "Country31/City1" [
+        fontsize = 8,
+        label = "Country31/City1"
+    ]
+
+    "Country10/City4" [
+        fontsize = 8,
+        label = "Country10/City4"
+    ]
+
+    "Country19/City6" [
+        fontsize = 8,
+        label = "Country19/City6"
+    ]
+
+    "Country31/City2" [
+        fontsize = 8,
+        label = "Country31/City2"
+    ]
+
+    "Country19/City7" [
+        fontsize = 8,
+        label = "Country19/City7"
+    ]
+
+    "Country10/City5" [
+        fontsize = 8,
+        label = "Country10/City5"
+    ]
+
+    "Country33/City1" [
+        fontsize = 8,
+        label = "Country33/City1"
+    ]
+
+    "Country32/City1" [
+        fontsize = 8,
+        label = "Country32/City1"
+    ]
+
+    "Country31/City3" [
+        fontsize = 8,
+        label = "Country31/City3"
+    ]
+
+    "Country23/City1" [
+        fontsize = 8,
+        label = "Country23/City1"
+    ]
+
+    "Country10/City6" [
+        fontsize = 8,
+        label = "Country10/City6"
+    ]
+
+    "Country33/City2" [
+        fontsize = 8,
+        label = "Country33/City2"
+    ]
+
+    "Country32/City2" [
+        fontsize = 8,
+        label = "Country32/City2"
+    ]
+
+    "Country31/City4" [
+        fontsize = 8,
+        label = "Country31/City4"
+    ]
+
+    "Country23/City2" [
+        fontsize = 8,
+        label = "Country23/City2"
+    ]
+
+    "Country10/City7" [
+        fontsize = 8,
+        label = "Country10/City7"
+    ]
+
+    "Country33/City3" [
+        fontsize = 8,
+        label = "Country33/City3"
+    ]
+
+    "Country32/City3" [
+        fontsize = 8,
+        label = "Country32/City3"
+    ]
+
+    "Country31/City5" [
+        fontsize = 8,
+        label = "Country31/City5"
+    ]
+
+    "Country25/City1" [
+        fontsize = 8,
+        label = "Country25/City1"
+    ]
+
+    "Country24/City1" [
+        fontsize = 8,
+        label = "Country24/City1"
+    ]
+
+    "Country3/City1" [
+        fontsize = 8,
+        label = "Country3/City1"
+    ]
+
+    "Country23/City3" [
+        fontsize = 8,
+        label = "Country23/City3"
+    ]
+
+    "Country15/City1" [
+        fontsize = 8,
+        label = "Country15/City1"
+    ]
+
+    "Country33/City4" [
+        fontsize = 8,
+        label = "Country33/City4"
+    ]
+
+    "Country32/City4" [
+        fontsize = 8,
+        label = "Country32/City4"
+    ]
+
+    "Country31/City6" [
+        fontsize = 8,
+        label = "Country31/City6"
+    ]
+
+    "Country25/City2" [
+        fontsize = 8,
+        label = "Country25/City2"
+    ]
+
+    "Country24/City2" [
+        fontsize = 8,
+        label = "Country24/City2"
+    ]
+
+    "Country23/City4" [
+        fontsize = 8,
+        label = "Country23/City4"
+    ]
+
+    "Country15/City2" [
+        fontsize = 8,
+        label = "Country15/City2"
+    ]
+
+    "Country3/City2" [
+        fontsize = 8,
+        label = "Country3/City2"
+    ]
+
+    "Country33/City5" [
+        fontsize = 8,
+        label = "Country33/City5"
+    ]
+
+    "Country32/City5" [
+        fontsize = 8,
+        label = "Country32/City5"
+    ]
+
+    "Country25/City3" [
+        fontsize = 8,
+        label = "Country25/City3"
+    ]
+
+    "Country24/City3" [
+        fontsize = 8,
+        label = "Country24/City3"
+    ]
+
+    "Country23/City5" [
+        fontsize = 8,
+        label = "Country23/City5"
+    ]
+
+    "Country15/City3" [
+        fontsize = 8,
+        label = "Country15/City3"
+    ]
+
+    "Country16/City1" [
+        fontsize = 8,
+        label = "Country16/City1"
+    ]
+
+    "Country9/City1" [
+        fontsize = 8,
+        label = "Country9/City1"
+    ]
+
+    "Country3/City3" [
+        fontsize = 8,
+        label = "Country3/City3"
+    ]
+
+    "Country32/City6" [
+        fontsize = 8,
+        label = "Country32/City6"
+    ]
+
+    "Country25/City4" [
+        fontsize = 8,
+        label = "Country25/City4"
+    ]
+
+    "Country24/City4" [
+        fontsize = 8,
+        label = "Country24/City4"
+    ]
+
+    "Country23/City6" [
+        fontsize = 8,
+        label = "Country23/City6"
+    ]
+
+    "Country15/City4" [
+        fontsize = 8,
+        label = "Country15/City4"
+    ]
+
+    "Country16/City2" [
+        fontsize = 8,
+        label = "Country16/City2"
+    ]
+
+    "Country9/City2" [
+        fontsize = 8,
+        label = "Country9/City2"
+    ]
+
+    "Country3/City4" [
+        fontsize = 8,
+        label = "Country3/City4"
+    ]
+
+    "Country32/City7" [
+        fontsize = 8,
+        label = "Country32/City7"
+    ]
+
+    "Country25/City5" [
+        fontsize = 8,
+        label = "Country25/City5"
+    ]
+
+    "Country24/City5" [
+        fontsize = 8,
+        label = "Country24/City5"
+    ]
+
+    "Country23/City7" [
+        fontsize = 8,
+        label = "Country23/City7"
+    ]
+
+    "Country15/City5" [
+        fontsize = 8,
+        label = "Country15/City5"
+    ]
+
+    "Country16/City3" [
+        fontsize = 8,
+        label = "Country16/City3"
+    ]
+
+    "Country9/City3" [
+        fontsize = 8,
+        label = "Country9/City3"
+    ]
+
+    "Country1/City1" [
+        fontsize = 8,
+        label = "Country1/City1"
+    ]
+
+    "Country3/City5" [
+        fontsize = 8,
+        label = "Country3/City5"
+    ]
+
+    "Country25/City6" [
+        fontsize = 8,
+        label = "Country25/City6"
+    ]
+
+    "Country24/City6" [
+        fontsize = 8,
+        label = "Country24/City6"
+    ]
+
+    "Country23/City8" [
+        fontsize = 8,
+        label = "Country23/City8"
+    ]
+
+    "Country15/City6" [
+        fontsize = 8,
+        label = "Country15/City6"
+    ]
+
+    "Country16/City4" [
+        fontsize = 8,
+        label = "Country16/City4"
+    ]
+
+    "Country9/City4" [
+        fontsize = 8,
+        label = "Country9/City4"
+    ]
+
+    "Country1/City2" [
+        fontsize = 8,
+        label = "Country1/City2"
+    ]
+
+    "Country3/City6" [
+        fontsize = 8,
+        label = "Country3/City6"
+    ]
+
+    "Country14/City1" -> "Country19/City2" [
         fontsize = 8
     ]
 
-    "Country38/City3" -> "Country43/City3" [
+    "Country14/City1" -> "Country35/City1" [
         fontsize = 8
     ]
 
-    "Country38/City3" -> "Country38/City1" [
+    "Country2/City1" -> "Country35/City1" [
         fontsize = 8
     ]
 
-    "Country37/City2" -> "Country37/City3" [
+    "Country29/City1" -> "Country35/City1" [
         fontsize = 8
     ]
 
-    "Country37/City2" -> "Country22/City1" [
+    "Country30/City1" -> "Country35/City1" [
+        fontsize = 8
+    ]
+
+    "Country22/City3" -> "Country17/City4" [
+        fontsize = 8
+    ]
+
+    "Country22/City3" -> "Country24/City2" [
+        fontsize = 8
+    ]
+
+    "Country22/City3" -> "Country22/City4" [
+        fontsize = 8
+    ]
+
+    "Country7/City1" -> "Country23/City8" [
+        fontsize = 8
+    ]
+
+    "Country7/City1" -> "Country20/City3" [
+        fontsize = 8
+    ]
+
+    "Country7/City1" -> "Country35/City1" [
+        fontsize = 8
+    ]
+
+    "Country22/City4" -> "Country22/City3" [
+        fontsize = 8
+    ]
+
+    "Country20/City1" -> "Country20/City3" [
+        fontsize = 8
+    ]
+
+    "Country8/City1" -> "Country35/City1" [
+        fontsize = 8
+    ]
+
+    "Country20/City3" -> "Country20/City1" [
+        fontsize = 8
+    ]
+
+    "Country20/City3" -> "Country7/City1" [
+        fontsize = 8
+    ]
+
+    "Country21/City1" -> "Country21/City8" [
+        fontsize = 8
+    ]
+
+    "Country12/City1" -> "Country35/City1" [
+        fontsize = 8
+    ]
+
+    "Country13/City1" -> "Country35/City1" [
+        fontsize = 8
+    ]
+
+    "Country28/City1" -> "Country35/City1" [
+        fontsize = 8
+    ]
+
+    "Country34/City1" -> "Country34/City3" [
+        fontsize = 8
+    ]
+
+    "Country11/City1" -> "Country26/City5" [
+        fontsize = 8
+    ]
+
+    "Country11/City1" -> "Country35/City1" [
+        fontsize = 8
+    ]
+
+    "Country35/City1" -> "Country11/City1" [
+        fontsize = 8
+    ]
+
+    "Country35/City1" -> "Country28/City1" [
+        fontsize = 8
+    ]
+
+    "Country35/City1" -> "Country29/City1" [
+        fontsize = 8
+    ]
+
+    "Country35/City1" -> "Country3/City1" [
+        fontsize = 8
+    ]
+
+    "Country35/City1" -> "Country30/City1" [
+        fontsize = 8
+    ]
+
+    "Country35/City1" -> "Country8/City1" [
+        fontsize = 8
+    ]
+
+    "Country35/City1" -> "Country5/City2" [
+        fontsize = 8
+    ]
+
+    "Country35/City1" -> "Country4/City1" [
+        fontsize = 8
+    ]
+
+    "Country35/City1" -> "Country31/City1" [
+        fontsize = 8
+    ]
+
+    "Country35/City1" -> "Country13/City1" [
+        fontsize = 8
+    ]
+
+    "Country35/City1" -> "Country9/City1" [
+        fontsize = 8
+    ]
+
+    "Country35/City1" -> "Country7/City1" [
+        fontsize = 8
+    ]
+
+    "Country35/City1" -> "Country14/City1" [
+        fontsize = 8
+    ]
+
+    "Country35/City1" -> "Country12/City1" [
+        fontsize = 8
+    ]
+
+    "Country35/City1" -> "Country6/City7" [
+        fontsize = 8
+    ]
+
+    "Country35/City1" -> "Country25/City1" [
+        fontsize = 8
+    ]
+
+    "Country35/City1" -> "Country2/City1" [
+        fontsize = 8
+    ]
+
+    "Country35/City1" -> "Country1/City1" [
+        fontsize = 8
+    ]
+
+    "Country34/City3" -> "Country34/City1" [
+        fontsize = 8
+    ]
+
+    "Country34/City3" -> "Country1/City1" [
+        fontsize = 8
+    ]
+
+    "Country26/City1" -> "Country26/City4" [
+        fontsize = 8
+    ]
+
+    "Country6/City6" -> "Country6/City7" [
+        fontsize = 8
+    ]
+
+    "Country4/City1" -> "Country35/City1" [
+        fontsize = 8
+    ]
+
+    "Country21/City8" -> "Country21/City1" [
+        fontsize = 8
+    ]
+
+    "Country21/City8" -> "Country16/City2" [
+        fontsize = 8
+    ]
+
+    "Country6/City7" -> "Country18/City2" [
+        fontsize = 8
+    ]
+
+    "Country6/City7" -> "Country6/City6" [
+        fontsize = 8
+    ]
+
+    "Country6/City7" -> "Country35/City1" [
+        fontsize = 8
+    ]
+
+    "Country27/City1" -> "Country27/City2" [
+        fontsize = 8
+    ]
+
+    "Country17/City1" -> "Country17/City4" [
         fontsize = 8
     ]
 
@@ -308,39 +1150,19 @@ digraph RGL__DirectedAdjacencyGraph {
         fontsize = 8
     ]
 
-    "Country16/City3" -> "Country14/City1" [
+    "Country5/City1" -> "Country5/City3" [
         fontsize = 8
     ]
 
-    "Country16/City3" -> "Country16/City1" [
+    "Country27/City2" -> "Country23/City8" [
         fontsize = 8
     ]
 
-    "Country11/City1" -> "Country11/City2" [
+    "Country27/City2" -> "Country27/City1" [
         fontsize = 8
     ]
 
-    "Country17/City2" -> "Country17/City4" [
-        fontsize = 8
-    ]
-
-    "Country17/City2" -> "Country1/City1" [
-        fontsize = 8
-    ]
-
-    "Country41/City1" -> "Country43/City4" [
-        fontsize = 8
-    ]
-
-    "Country37/City3" -> "Country37/City2" [
-        fontsize = 8
-    ]
-
-    "Country28/City1" -> "Country43/City4" [
-        fontsize = 8
-    ]
-
-    "Country21/City1" -> "Country43/City1" [
+    "Country26/City4" -> "Country26/City1" [
         fontsize = 8
     ]
 
@@ -348,175 +1170,71 @@ digraph RGL__DirectedAdjacencyGraph {
         fontsize = 8
     ]
 
-    "Country18/City2" -> "Country11/City2" [
+    "Country18/City2" -> "Country33/City2" [
         fontsize = 8
     ]
 
-    "Country18/City2" -> "Country24/City3" [
+    "Country18/City2" -> "Country6/City7" [
         fontsize = 8
     ]
 
-    "Country11/City2" -> "Country11/City1" [
+    "Country5/City2" -> "Country35/City1" [
         fontsize = 8
     ]
 
-    "Country11/City2" -> "Country18/City2" [
+    "Country5/City2" -> "Country10/City3" [
         fontsize = 8
     ]
 
-    "Country11/City2" -> "Country2/City1" [
+    "Country26/City5" -> "Country11/City1" [
         fontsize = 8
     ]
 
-    "Country43/City1" -> "Country21/City1" [
+    "Country19/City1" -> "Country19/City2" [
         fontsize = 8
     ]
 
-    "Country43/City1" -> "Country20/City1" [
+    "Country5/City3" -> "Country5/City1" [
         fontsize = 8
     ]
 
-    "Country43/City1" -> "Country3/City1" [
+    "Country19/City2" -> "Country14/City1" [
         fontsize = 8
     ]
 
-    "Country43/City1" -> "Country10/City1" [
+    "Country19/City2" -> "Country19/City1" [
         fontsize = 8
     ]
 
-    "Country43/City1" -> "Country8/City1" [
+    "Country17/City4" -> "Country15/City6" [
         fontsize = 8
     ]
 
-    "Country43/City1" -> "Country5/City2" [
+    "Country17/City4" -> "Country22/City3" [
         fontsize = 8
     ]
 
-    "Country43/City1" -> "Country4/City1" [
+    "Country17/City4" -> "Country17/City1" [
         fontsize = 8
     ]
 
-    "Country43/City1" -> "Country13/City1" [
+    "Country10/City1" -> "Country10/City3" [
         fontsize = 8
     ]
 
-    "Country43/City1" -> "Country9/City1" [
+    "Country10/City3" -> "Country10/City1" [
         fontsize = 8
     ]
 
-    "Country43/City1" -> "Country7/City1" [
+    "Country10/City3" -> "Country5/City2" [
         fontsize = 8
     ]
 
-    "Country43/City1" -> "Country14/City1" [
+    "Country10/City3" -> "Country32/City6" [
         fontsize = 8
     ]
 
-    "Country43/City1" -> "Country22/City1" [
-        fontsize = 8
-    ]
-
-    "Country43/City1" -> "Country2/City1" [
-        fontsize = 8
-    ]
-
-    "Country43/City1" -> "Country1/City1" [
-        fontsize = 8
-    ]
-
-    "Country43/City1" -> "Country19/City1" [
-        fontsize = 8
-    ]
-
-    "Country43/City1" -> "Country15/City1" [
-        fontsize = 8
-    ]
-
-    "Country43/City1" -> "Country6/City1" [
-        fontsize = 8
-    ]
-
-    "Country43/City2" -> "Country43/City3" [
-        fontsize = 8
-    ]
-
-    "Country42/City1" -> "Country43/City4" [
-        fontsize = 8
-    ]
-
-    "Country29/City1" -> "Country43/City4" [
-        fontsize = 8
-    ]
-
-    "Country26/City6" -> "Country34/City1" [
-        fontsize = 8
-    ]
-
-    "Country26/City6" -> "Country26/City1" [
-        fontsize = 8
-    ]
-
-    "Country20/City1" -> "Country43/City1" [
-        fontsize = 8
-    ]
-
-    "Country20/City1" -> "Country31/City3" [
-        fontsize = 8
-    ]
-
-    "Country17/City4" -> "Country17/City2" [
-        fontsize = 8
-    ]
-
-    "Country3/City1" -> "Country43/City1" [
-        fontsize = 8
-    ]
-
-    "Country43/City3" -> "Country38/City3" [
-        fontsize = 8
-    ]
-
-    "Country43/City3" -> "Country43/City2" [
-        fontsize = 8
-    ]
-
-    "Country43/City3" -> "Country35/City1" [
-        fontsize = 8
-    ]
-
-    "Country32/City1" -> "Country43/City4" [
-        fontsize = 8
-    ]
-
-    "Country30/City1" -> "Country43/City4" [
-        fontsize = 8
-    ]
-
-    "Country30/City1" -> "Country33/City2" [
-        fontsize = 8
-    ]
-
-    "Country10/City1" -> "Country43/City1" [
-        fontsize = 8
-    ]
-
-    "Country8/City1" -> "Country43/City1" [
-        fontsize = 8
-    ]
-
-    "Country5/City2" -> "Country43/City1" [
-        fontsize = 8
-    ]
-
-    "Country4/City1" -> "Country43/City1" [
-        fontsize = 8
-    ]
-
-    "Country4/City1" -> "Country12/City3" [
-        fontsize = 8
-    ]
-
-    "Country35/City1" -> "Country43/City3" [
+    "Country31/City1" -> "Country35/City1" [
         fontsize = 8
     ]
 
@@ -524,79 +1242,15 @@ digraph RGL__DirectedAdjacencyGraph {
         fontsize = 8
     ]
 
-    "Country31/City1" -> "Country31/City3" [
+    "Country32/City1" -> "Country32/City6" [
         fontsize = 8
     ]
 
-    "Country43/City4" -> "Country40/City1" [
+    "Country23/City1" -> "Country23/City8" [
         fontsize = 8
     ]
 
-    "Country43/City4" -> "Country41/City1" [
-        fontsize = 8
-    ]
-
-    "Country43/City4" -> "Country28/City1" [
-        fontsize = 8
-    ]
-
-    "Country43/City4" -> "Country42/City1" [
-        fontsize = 8
-    ]
-
-    "Country43/City4" -> "Country29/City1" [
-        fontsize = 8
-    ]
-
-    "Country43/City4" -> "Country32/City1" [
-        fontsize = 8
-    ]
-
-    "Country43/City4" -> "Country30/City1" [
-        fontsize = 8
-    ]
-
-    "Country43/City4" -> "Country27/City1" [
-        fontsize = 8
-    ]
-
-    "Country43/City4" -> "Country25/City1" [
-        fontsize = 8
-    ]
-
-    "Country43/City4" -> "Country23/City1" [
-        fontsize = 8
-    ]
-
-    "Country43/City4" -> "Country26/City1" [
-        fontsize = 8
-    ]
-
-    "Country43/City4" -> "Country38/City1" [
-        fontsize = 8
-    ]
-
-    "Country43/City4" -> "Country36/City1" [
-        fontsize = 8
-    ]
-
-    "Country43/City4" -> "Country39/City1" [
-        fontsize = 8
-    ]
-
-    "Country13/City1" -> "Country43/City1" [
-        fontsize = 8
-    ]
-
-    "Country9/City1" -> "Country43/City1" [
-        fontsize = 8
-    ]
-
-    "Country7/City1" -> "Country43/City1" [
-        fontsize = 8
-    ]
-
-    "Country33/City2" -> "Country30/City1" [
+    "Country33/City2" -> "Country18/City2" [
         fontsize = 8
     ]
 
@@ -604,123 +1258,95 @@ digraph RGL__DirectedAdjacencyGraph {
         fontsize = 8
     ]
 
-    "Country34/City1" -> "Country26/City6" [
+    "Country25/City1" -> "Country35/City1" [
         fontsize = 8
     ]
 
-    "Country14/City1" -> "Country16/City3" [
+    "Country24/City1" -> "Country24/City2" [
         fontsize = 8
     ]
 
-    "Country14/City1" -> "Country43/City1" [
+    "Country3/City1" -> "Country15/City6" [
         fontsize = 8
     ]
 
-    "Country24/City1" -> "Country24/City3" [
+    "Country3/City1" -> "Country35/City1" [
         fontsize = 8
     ]
 
-    "Country22/City1" -> "Country37/City2" [
+    "Country15/City1" -> "Country15/City6" [
         fontsize = 8
     ]
 
-    "Country22/City1" -> "Country43/City1" [
+    "Country24/City2" -> "Country24/City1" [
         fontsize = 8
     ]
 
-    "Country31/City3" -> "Country20/City1" [
+    "Country24/City2" -> "Country22/City3" [
         fontsize = 8
     ]
 
-    "Country31/City3" -> "Country31/City1" [
+    "Country16/City1" -> "Country16/City2" [
         fontsize = 8
     ]
 
-    "Country12/City2" -> "Country12/City3" [
+    "Country9/City1" -> "Country35/City1" [
         fontsize = 8
     ]
 
-    "Country27/City1" -> "Country43/City4" [
+    "Country9/City1" -> "Country16/City2" [
         fontsize = 8
     ]
 
-    "Country25/City1" -> "Country43/City4" [
+    "Country32/City6" -> "Country32/City1" [
         fontsize = 8
     ]
 
-    "Country23/City1" -> "Country43/City4" [
+    "Country32/City6" -> "Country10/City3" [
         fontsize = 8
     ]
 
-    "Country12/City3" -> "Country4/City1" [
+    "Country16/City2" -> "Country9/City1" [
         fontsize = 8
     ]
 
-    "Country12/City3" -> "Country12/City2" [
+    "Country16/City2" -> "Country21/City8" [
         fontsize = 8
     ]
 
-    "Country26/City1" -> "Country26/City6" [
+    "Country16/City2" -> "Country16/City1" [
         fontsize = 8
     ]
 
-    "Country26/City1" -> "Country43/City4" [
+    "Country1/City1" -> "Country35/City1" [
         fontsize = 8
     ]
 
-    "Country24/City3" -> "Country18/City2" [
+    "Country1/City1" -> "Country34/City3" [
         fontsize = 8
     ]
 
-    "Country24/City3" -> "Country24/City1" [
+    "Country23/City8" -> "Country7/City1" [
         fontsize = 8
     ]
 
-    "Country2/City1" -> "Country11/City2" [
+    "Country23/City8" -> "Country23/City1" [
         fontsize = 8
     ]
 
-    "Country2/City1" -> "Country43/City1" [
+    "Country23/City8" -> "Country27/City2" [
         fontsize = 8
     ]
 
-    "Country38/City1" -> "Country38/City3" [
+    "Country15/City6" -> "Country17/City4" [
         fontsize = 8
     ]
 
-    "Country38/City1" -> "Country43/City4" [
+    "Country15/City6" -> "Country3/City1" [
         fontsize = 8
     ]
 
-    "Country36/City1" -> "Country43/City4" [
-        fontsize = 8
-    ]
-
-    "Country16/City1" -> "Country16/City3" [
-        fontsize = 8
-    ]
-
-    "Country1/City1" -> "Country17/City2" [
-        fontsize = 8
-    ]
-
-    "Country1/City1" -> "Country43/City1" [
-        fontsize = 8
-    ]
-
-    "Country39/City1" -> "Country43/City4" [
-        fontsize = 8
-    ]
-
-    "Country19/City1" -> "Country43/City1" [
-        fontsize = 8
-    ]
-
-    "Country15/City1" -> "Country43/City1" [
-        fontsize = 8
-    ]
-
-    "Country6/City1" -> "Country43/City1" [
+    "Country15/City6" -> "Country15/City1" [
         fontsize = 8
     ]
 }

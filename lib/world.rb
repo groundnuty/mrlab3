@@ -1,8 +1,7 @@
 require 'rubygems'
 require 'country'
 require 'node_pair'
-require 'rgl/adjacency'
-require 'rgl/dot'
+require 'graph'
 
 class World
   attr_accessor :max_width, :max_height, :countries
@@ -34,7 +33,7 @@ class World
     # first airports
     self.countries.each do |country|
       city = country.cities.first
-      city.airport = Airport.new(city.x, city.y, country.name, city.name)
+      city.airport = Airport.new(city)
     end
     
     all_cities = self.all_cities
@@ -94,7 +93,7 @@ class World
       pairs.each do |pair|
         a1 = pair.a1
         a2 = pair.a2
-        distance = Math.sqrt((a1.x-a2.x)**2+(a1.y-a2.y)**2)
+        distance = Math.sqrt((a1.city.x-a2.city.x)**2+(a1.city.y-a2.city.y)**2)
         # params of choice
         # r = 1
         # F(d) = d^r
@@ -116,7 +115,7 @@ class World
       pairs.each do |pair|
         a = pair.a1
         c = pair.a2
-        distance = Math.sqrt((a.x-c.x)**2+(a.y-c.y)**2)
+        distance = Math.sqrt((a.city.x-c.x)**2+(a.city.y-c.y)**2)
         # params of choice
         # r = 1
         # F(d) = d^r
@@ -130,7 +129,7 @@ class World
       end
 
       pair = pairs[j-1]
-      new_airport = Airport.new(pair.a2.x, pair.a2.y, pair.a2.country_name, pair.a2.name)
+      new_airport = Airport.new(pair.a2)
       pair.a2.airport = new_airport
       new_airport.links << pair.a1
       pair.a1.links << new_airport
@@ -141,17 +140,21 @@ class World
     self.countries.map { |c| c.cities }.inject([]) { |cities, c| cities+c }
   end
 
-  def visualize
-    dg = RGL::DirectedAdjacencyGraph.new
-
-    self.all_cities.select { |c| c.airport }.each do |c|
+  def to_graph
+    nodes = self.all_cities
+    edges = []
+    nodes.select { |n| n.airport }.each do |c|
       c.airport.links.each do |link|
-        dg.add_edge(c.airport.to_s, link.to_s)
+        distance = Math.sqrt((link.city.x-c.x)**2+(link.city.y-c.y)**2)
+        edges << [c, link.city, distance]
       end
     end
+    Graph.new(nodes, edges)
+  end
 
-    src = File.join('../', 'images', 'graph')
-    dg.write_to_graphic_file('png', src)
+  def visualize
+    dest = File.join('..','images','graph')
+    self.to_graph.to_png(dest)
   end
 
   def print

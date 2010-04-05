@@ -1,15 +1,12 @@
 class Airport
-  attr_accessor :x, :y, :links, :country_name, :city_name
+  attr_accessor :links, :city
 
-  def initialize(x, y, country_name, city_name)
-    self.x = x.to_f
-    self.y = y.to_f
+  def initialize(city)
     self.links = []
-    self.country_name = country_name
-    self.city_name = city_name
+    self.city = city
   end
 
   def to_s
-    "#{self.country_name}/#{self.city_name}"
+    "#{self.city.country_name}/#{self.city.name}"
   end
 end
