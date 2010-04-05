@@ -1,14 +1,4 @@
 digraph RGL__DirectedAdjacencyGraph {
-    "Country25/City7" [
-        fontsize = 8,
-        label = "Country25/City7"
-    ]
-
-    "Country23/City9" [
-        fontsize = 8,
-        label = "Country23/City9"
-    ]
-
     "Country14/City1" [
         fontsize = 8,
         label = "Country14/City1"
@@ -24,14 +14,19 @@ digraph RGL__DirectedAdjacencyGraph {
         label = "Country16/City5"
     ]
 
+    "Country9/City5" [
+        fontsize = 8,
+        label = "Country9/City5"
+    ]
+
+    "Country1/City3" [
+        fontsize = 8,
+        label = "Country1/City3"
+    ]
+
     "Country2/City1" [
         fontsize = 8,
         label = "Country2/City1"
-    ]
-
-    "Country3/City7" [
-        fontsize = 8,
-        label = "Country3/City7"
     ]
 
     "Country29/City1" [
@@ -39,14 +34,19 @@ digraph RGL__DirectedAdjacencyGraph {
         label = "Country29/City1"
     ]
 
-    "Country25/City8" [
-        fontsize = 8,
-        label = "Country25/City8"
-    ]
-
     "Country15/City8" [
         fontsize = 8,
         label = "Country15/City8"
+    ]
+
+    "Country9/City6" [
+        fontsize = 8,
+        label = "Country9/City6"
+    ]
+
+    "Country1/City4" [
+        fontsize = 8,
+        label = "Country1/City4"
     ]
 
     "Country2/City2" [
@@ -54,19 +54,14 @@ digraph RGL__DirectedAdjacencyGraph {
         label = "Country2/City2"
     ]
 
-    "Country3/City8" [
+    "Country14/City2" [
         fontsize = 8,
-        label = "Country3/City8"
+        label = "Country14/City2"
     ]
 
     "Country29/City2" [
         fontsize = 8,
         label = "Country29/City2"
-    ]
-
-    "Country25/City9" [
-        fontsize = 8,
-        label = "Country25/City9"
     ]
 
     "Country2/City3" [
@@ -79,6 +74,11 @@ digraph RGL__DirectedAdjacencyGraph {
         label = "Country30/City1"
     ]
 
+    "Country29/City3" [
+        fontsize = 8,
+        label = "Country29/City3"
+    ]
+
     "Country2/City4" [
         fontsize = 8,
         label = "Country2/City4"
@@ -89,9 +89,24 @@ digraph RGL__DirectedAdjacencyGraph {
         label = "Country30/City2"
     ]
 
+    "Country29/City4" [
+        fontsize = 8,
+        label = "Country29/City4"
+    ]
+
+    "Country2/City5" [
+        fontsize = 8,
+        label = "Country2/City5"
+    ]
+
     "Country30/City3" [
         fontsize = 8,
         label = "Country30/City3"
+    ]
+
+    "Country29/City5" [
+        fontsize = 8,
+        label = "Country29/City5"
     ]
 
     "Country22/City1" [
@@ -99,9 +114,24 @@ digraph RGL__DirectedAdjacencyGraph {
         label = "Country22/City1"
     ]
 
+    "Country2/City6" [
+        fontsize = 8,
+        label = "Country2/City6"
+    ]
+
+    "Country29/City6" [
+        fontsize = 8,
+        label = "Country29/City6"
+    ]
+
     "Country22/City2" [
         fontsize = 8,
         label = "Country22/City2"
+    ]
+
+    "Country29/City7" [
+        fontsize = 8,
+        label = "Country29/City7"
     ]
 
     "Country22/City3" [
@@ -114,11 +144,6 @@ digraph RGL__DirectedAdjacencyGraph {
         label = "Country7/City1"
     ]
 
-    "Country22/City4" [
-        fontsize = 8,
-        label = "Country22/City4"
-    ]
-
     "Country7/City2" [
         fontsize = 8,
         label = "Country7/City2"
@@ -129,9 +154,9 @@ digraph RGL__DirectedAdjacencyGraph {
         label = "Country20/City1"
     ]
 
-    "Country22/City5" [
+    "Country18/City10" [
         fontsize = 8,
-        label = "Country22/City5"
+        label = "Country18/City10"
     ]
 
     "Country8/City1" [
@@ -159,14 +184,14 @@ digraph RGL__DirectedAdjacencyGraph {
         label = "Country7/City4"
     ]
 
-    "Country20/City3" [
-        fontsize = 8,
-        label = "Country20/City3"
-    ]
-
     "Country21/City1" [
         fontsize = 8,
         label = "Country21/City1"
+    ]
+
+    "Country20/City3" [
+        fontsize = 8,
+        label = "Country20/City3"
     ]
 
     "Country12/City1" [
@@ -184,11 +209,6 @@ digraph RGL__DirectedAdjacencyGraph {
         label = "Country7/City5"
     ]
 
-    "Country20/City4" [
-        fontsize = 8,
-        label = "Country20/City4"
-    ]
-
     "Country21/City2" [
         fontsize = 8,
         label = "Country21/City2"
@@ -204,24 +224,19 @@ digraph RGL__DirectedAdjacencyGraph {
         label = "Country8/City4"
     ]
 
-    "Country7/City6" [
-        fontsize = 8,
-        label = "Country7/City6"
-    ]
-
     "Country21/City3" [
         fontsize = 8,
         label = "Country21/City3"
     ]
 
-    "Country13/City1" [
-        fontsize = 8,
-        label = "Country13/City1"
-    ]
-
     "Country12/City3" [
         fontsize = 8,
         label = "Country12/City3"
+    ]
+
+    "Country13/City1" [
+        fontsize = 8,
+        label = "Country13/City1"
     ]
 
     "Country6/City1" [
@@ -232,11 +247,6 @@ digraph RGL__DirectedAdjacencyGraph {
     "Country8/City5" [
         fontsize = 8,
         label = "Country8/City5"
-    ]
-
-    "Country7/City7" [
-        fontsize = 8,
-        label = "Country7/City7"
     ]
 
     "Country28/City1" [
@@ -254,14 +264,14 @@ digraph RGL__DirectedAdjacencyGraph {
         label = "Country12/City4"
     ]
 
+    "Country13/City2" [
+        fontsize = 8,
+        label = "Country13/City2"
+    ]
+
     "Country6/City2" [
         fontsize = 8,
         label = "Country6/City2"
-    ]
-
-    "Country7/City8" [
-        fontsize = 8,
-        label = "Country7/City8"
     ]
 
     "Country8/City6" [
@@ -284,9 +294,9 @@ digraph RGL__DirectedAdjacencyGraph {
         label = "Country12/City5"
     ]
 
-    "Country6/City3" [
+    "Country13/City3" [
         fontsize = 8,
-        label = "Country6/City3"
+        label = "Country13/City3"
     ]
 
     "Country8/City7" [
@@ -294,24 +304,9 @@ digraph RGL__DirectedAdjacencyGraph {
         label = "Country8/City7"
     ]
 
-    "Country34/City1" [
-        fontsize = 8,
-        label = "Country34/City1"
-    ]
-
     "Country28/City3" [
         fontsize = 8,
         label = "Country28/City3"
-    ]
-
-    "Country6/City4" [
-        fontsize = 8,
-        label = "Country6/City4"
-    ]
-
-    "Country7/City9" [
-        fontsize = 8,
-        label = "Country7/City9"
     ]
 
     "Country21/City6" [
@@ -319,9 +314,14 @@ digraph RGL__DirectedAdjacencyGraph {
         label = "Country21/City6"
     ]
 
-    "Country34/City2" [
+    "Country12/City6" [
         fontsize = 8,
-        label = "Country34/City2"
+        label = "Country12/City6"
+    ]
+
+    "Country13/City4" [
+        fontsize = 8,
+        label = "Country13/City4"
     ]
 
     "Country28/City4" [
@@ -329,14 +329,24 @@ digraph RGL__DirectedAdjacencyGraph {
         label = "Country28/City4"
     ]
 
-    "Country6/City5" [
-        fontsize = 8,
-        label = "Country6/City5"
-    ]
-
     "Country21/City7" [
         fontsize = 8,
         label = "Country21/City7"
+    ]
+
+    "Country12/City7" [
+        fontsize = 8,
+        label = "Country12/City7"
+    ]
+
+    "Country13/City5" [
+        fontsize = 8,
+        label = "Country13/City5"
+    ]
+
+    "Country8/City8" [
+        fontsize = 8,
+        label = "Country8/City8"
     ]
 
     "Country11/City1" [
@@ -344,34 +354,9 @@ digraph RGL__DirectedAdjacencyGraph {
         label = "Country11/City1"
     ]
 
-    "Country35/City1" [
-        fontsize = 8,
-        label = "Country35/City1"
-    ]
-
-    "Country34/City3" [
-        fontsize = 8,
-        label = "Country34/City3"
-    ]
-
-    "Country28/City5" [
-        fontsize = 8,
-        label = "Country28/City5"
-    ]
-
     "Country26/City1" [
         fontsize = 8,
         label = "Country26/City1"
-    ]
-
-    "Country6/City6" [
-        fontsize = 8,
-        label = "Country6/City6"
-    ]
-
-    "Country4/City1" [
-        fontsize = 8,
-        label = "Country4/City1"
     ]
 
     "Country21/City8" [
@@ -379,24 +364,29 @@ digraph RGL__DirectedAdjacencyGraph {
         label = "Country21/City8"
     ]
 
+    "Country12/City8" [
+        fontsize = 8,
+        label = "Country12/City8"
+    ]
+
+    "Country13/City6" [
+        fontsize = 8,
+        label = "Country13/City6"
+    ]
+
+    "Country8/City9" [
+        fontsize = 8,
+        label = "Country8/City9"
+    ]
+
+    "Country4/City1" [
+        fontsize = 8,
+        label = "Country4/City1"
+    ]
+
     "Country11/City2" [
         fontsize = 8,
         label = "Country11/City2"
-    ]
-
-    "Country35/City2" [
-        fontsize = 8,
-        label = "Country35/City2"
-    ]
-
-    "Country34/City4" [
-        fontsize = 8,
-        label = "Country34/City4"
-    ]
-
-    "Country28/City6" [
-        fontsize = 8,
-        label = "Country28/City6"
     ]
 
     "Country26/City2" [
@@ -404,9 +394,9 @@ digraph RGL__DirectedAdjacencyGraph {
         label = "Country26/City2"
     ]
 
-    "Country6/City7" [
+    "Country21/City9" [
         fontsize = 8,
-        label = "Country6/City7"
+        label = "Country21/City9"
     ]
 
     "Country4/City2" [
@@ -417,21 +407,6 @@ digraph RGL__DirectedAdjacencyGraph {
     "Country11/City3" [
         fontsize = 8,
         label = "Country11/City3"
-    ]
-
-    "Country35/City3" [
-        fontsize = 8,
-        label = "Country35/City3"
-    ]
-
-    "Country34/City5" [
-        fontsize = 8,
-        label = "Country34/City5"
-    ]
-
-    "Country28/City7" [
-        fontsize = 8,
-        label = "Country28/City7"
     ]
 
     "Country27/City1" [
@@ -447,6 +422,11 @@ digraph RGL__DirectedAdjacencyGraph {
     "Country17/City1" [
         fontsize = 8,
         label = "Country17/City1"
+    ]
+
+    "Country4/City10" [
+        fontsize = 8,
+        label = "Country4/City10"
     ]
 
     "Country18/City1" [
@@ -469,16 +449,6 @@ digraph RGL__DirectedAdjacencyGraph {
         label = "Country11/City4"
     ]
 
-    "Country35/City4" [
-        fontsize = 8,
-        label = "Country35/City4"
-    ]
-
-    "Country28/City8" [
-        fontsize = 8,
-        label = "Country28/City8"
-    ]
-
     "Country27/City2" [
         fontsize = 8,
         label = "Country27/City2"
@@ -494,6 +464,11 @@ digraph RGL__DirectedAdjacencyGraph {
         label = "Country17/City2"
     ]
 
+    "Country4/City11" [
+        fontsize = 8,
+        label = "Country4/City11"
+    ]
+
     "Country18/City2" [
         fontsize = 8,
         label = "Country18/City2"
@@ -504,9 +479,14 @@ digraph RGL__DirectedAdjacencyGraph {
         label = "Country5/City2"
     ]
 
-    "Country35/City5" [
+    "Country4/City4" [
         fontsize = 8,
-        label = "Country35/City5"
+        label = "Country4/City4"
+    ]
+
+    "Country11/City5" [
+        fontsize = 8,
+        label = "Country11/City5"
     ]
 
     "Country27/City3" [
@@ -534,14 +514,14 @@ digraph RGL__DirectedAdjacencyGraph {
         label = "Country5/City3"
     ]
 
-    "Country17/City3" [
+    "Country4/City5" [
         fontsize = 8,
-        label = "Country17/City3"
+        label = "Country4/City5"
     ]
 
-    "Country27/City4" [
+    "Country11/City6" [
         fontsize = 8,
-        label = "Country27/City4"
+        label = "Country11/City6"
     ]
 
     "Country18/City4" [
@@ -554,14 +534,19 @@ digraph RGL__DirectedAdjacencyGraph {
         label = "Country19/City2"
     ]
 
-    "Country17/City4" [
+    "Country4/City6" [
         fontsize = 8,
-        label = "Country17/City4"
+        label = "Country4/City6"
     ]
 
-    "Country27/City5" [
+    "Country11/City7" [
         fontsize = 8,
-        label = "Country27/City5"
+        label = "Country11/City7"
+    ]
+
+    "Country8/City10" [
+        fontsize = 8,
+        label = "Country8/City10"
     ]
 
     "Country10/City1" [
@@ -569,19 +554,29 @@ digraph RGL__DirectedAdjacencyGraph {
         label = "Country10/City1"
     ]
 
+    "Country18/City5" [
+        fontsize = 8,
+        label = "Country18/City5"
+    ]
+
     "Country19/City3" [
         fontsize = 8,
         label = "Country19/City3"
     ]
 
-    "Country17/City5" [
+    "Country4/City7" [
         fontsize = 8,
-        label = "Country17/City5"
+        label = "Country4/City7"
     ]
 
-    "Country27/City6" [
+    "Country11/City8" [
         fontsize = 8,
-        label = "Country27/City6"
+        label = "Country11/City8"
+    ]
+
+    "Country8/City11" [
+        fontsize = 8,
+        label = "Country8/City11"
     ]
 
     "Country10/City2" [
@@ -589,14 +584,19 @@ digraph RGL__DirectedAdjacencyGraph {
         label = "Country10/City2"
     ]
 
+    "Country18/City6" [
+        fontsize = 8,
+        label = "Country18/City6"
+    ]
+
     "Country19/City4" [
         fontsize = 8,
         label = "Country19/City4"
     ]
 
-    "Country10/City3" [
+    "Country4/City8" [
         fontsize = 8,
-        label = "Country10/City3"
+        label = "Country4/City8"
     ]
 
     "Country19/City5" [
@@ -604,9 +604,29 @@ digraph RGL__DirectedAdjacencyGraph {
         label = "Country19/City5"
     ]
 
+    "Country10/City3" [
+        fontsize = 8,
+        label = "Country10/City3"
+    ]
+
+    "Country18/City7" [
+        fontsize = 8,
+        label = "Country18/City7"
+    ]
+
+    "Country4/City9" [
+        fontsize = 8,
+        label = "Country4/City9"
+    ]
+
     "Country31/City1" [
         fontsize = 8,
         label = "Country31/City1"
+    ]
+
+    "Country19/City6" [
+        fontsize = 8,
+        label = "Country19/City6"
     ]
 
     "Country10/City4" [
@@ -614,9 +634,9 @@ digraph RGL__DirectedAdjacencyGraph {
         label = "Country10/City4"
     ]
 
-    "Country19/City6" [
+    "Country18/City8" [
         fontsize = 8,
-        label = "Country19/City6"
+        label = "Country18/City8"
     ]
 
     "Country31/City2" [
@@ -629,19 +649,14 @@ digraph RGL__DirectedAdjacencyGraph {
         label = "Country19/City7"
     ]
 
+    "Country18/City9" [
+        fontsize = 8,
+        label = "Country18/City9"
+    ]
+
     "Country10/City5" [
         fontsize = 8,
         label = "Country10/City5"
-    ]
-
-    "Country33/City1" [
-        fontsize = 8,
-        label = "Country33/City1"
-    ]
-
-    "Country32/City1" [
-        fontsize = 8,
-        label = "Country32/City1"
     ]
 
     "Country31/City3" [
@@ -654,19 +669,14 @@ digraph RGL__DirectedAdjacencyGraph {
         label = "Country23/City1"
     ]
 
+    "Country19/City8" [
+        fontsize = 8,
+        label = "Country19/City8"
+    ]
+
     "Country10/City6" [
         fontsize = 8,
         label = "Country10/City6"
-    ]
-
-    "Country33/City2" [
-        fontsize = 8,
-        label = "Country33/City2"
-    ]
-
-    "Country32/City2" [
-        fontsize = 8,
-        label = "Country32/City2"
     ]
 
     "Country31/City4" [
@@ -684,16 +694,6 @@ digraph RGL__DirectedAdjacencyGraph {
         label = "Country10/City7"
     ]
 
-    "Country33/City3" [
-        fontsize = 8,
-        label = "Country33/City3"
-    ]
-
-    "Country32/City3" [
-        fontsize = 8,
-        label = "Country32/City3"
-    ]
-
     "Country31/City5" [
         fontsize = 8,
         label = "Country31/City5"
@@ -709,29 +709,19 @@ digraph RGL__DirectedAdjacencyGraph {
         label = "Country24/City1"
     ]
 
-    "Country3/City1" [
-        fontsize = 8,
-        label = "Country3/City1"
-    ]
-
     "Country23/City3" [
         fontsize = 8,
         label = "Country23/City3"
     ]
 
+    "Country3/City1" [
+        fontsize = 8,
+        label = "Country3/City1"
+    ]
+
     "Country15/City1" [
         fontsize = 8,
         label = "Country15/City1"
-    ]
-
-    "Country33/City4" [
-        fontsize = 8,
-        label = "Country33/City4"
-    ]
-
-    "Country32/City4" [
-        fontsize = 8,
-        label = "Country32/City4"
     ]
 
     "Country31/City6" [
@@ -764,14 +754,9 @@ digraph RGL__DirectedAdjacencyGraph {
         label = "Country3/City2"
     ]
 
-    "Country33/City5" [
+    "Country31/City7" [
         fontsize = 8,
-        label = "Country33/City5"
-    ]
-
-    "Country32/City5" [
-        fontsize = 8,
-        label = "Country32/City5"
+        label = "Country31/City7"
     ]
 
     "Country25/City3" [
@@ -809,19 +794,9 @@ digraph RGL__DirectedAdjacencyGraph {
         label = "Country3/City3"
     ]
 
-    "Country32/City6" [
-        fontsize = 8,
-        label = "Country32/City6"
-    ]
-
     "Country25/City4" [
         fontsize = 8,
         label = "Country25/City4"
-    ]
-
-    "Country24/City4" [
-        fontsize = 8,
-        label = "Country24/City4"
     ]
 
     "Country23/City6" [
@@ -849,19 +824,9 @@ digraph RGL__DirectedAdjacencyGraph {
         label = "Country3/City4"
     ]
 
-    "Country32/City7" [
-        fontsize = 8,
-        label = "Country32/City7"
-    ]
-
     "Country25/City5" [
         fontsize = 8,
         label = "Country25/City5"
-    ]
-
-    "Country24/City5" [
-        fontsize = 8,
-        label = "Country24/City5"
     ]
 
     "Country23/City7" [
@@ -899,11 +864,6 @@ digraph RGL__DirectedAdjacencyGraph {
         label = "Country25/City6"
     ]
 
-    "Country24/City6" [
-        fontsize = 8,
-        label = "Country24/City6"
-    ]
-
     "Country23/City8" [
         fontsize = 8,
         label = "Country23/City8"
@@ -934,51 +894,35 @@ digraph RGL__DirectedAdjacencyGraph {
         label = "Country3/City6"
     ]
 
-    "Country14/City1" -> "Country19/City2" [
+    "Country2/City1" -> "Country20/City2" [
         fontsize = 8
     ]
 
-    "Country14/City1" -> "Country35/City1" [
+    "Country2/City1" -> "Country3/City2" [
         fontsize = 8
     ]
 
-    "Country2/City1" -> "Country35/City1" [
+    "Country2/City1" -> "Country31/City1" [
         fontsize = 8
     ]
 
-    "Country29/City1" -> "Country35/City1" [
+    "Country29/City1" -> "Country31/City1" [
         fontsize = 8
     ]
 
-    "Country30/City1" -> "Country35/City1" [
+    "Country14/City2" -> "Country31/City1" [
         fontsize = 8
     ]
 
-    "Country22/City3" -> "Country17/City4" [
+    "Country30/City1" -> "Country31/City1" [
         fontsize = 8
     ]
 
-    "Country22/City3" -> "Country24/City2" [
+    "Country22/City1" -> "Country31/City1" [
         fontsize = 8
     ]
 
-    "Country22/City3" -> "Country22/City4" [
-        fontsize = 8
-    ]
-
-    "Country7/City1" -> "Country23/City8" [
-        fontsize = 8
-    ]
-
-    "Country7/City1" -> "Country20/City3" [
-        fontsize = 8
-    ]
-
-    "Country7/City1" -> "Country35/City1" [
-        fontsize = 8
-    ]
-
-    "Country22/City4" -> "Country22/City3" [
+    "Country7/City1" -> "Country31/City1" [
         fontsize = 8
     ]
 
@@ -986,7 +930,15 @@ digraph RGL__DirectedAdjacencyGraph {
         fontsize = 8
     ]
 
-    "Country8/City1" -> "Country35/City1" [
+    "Country8/City1" -> "Country31/City1" [
+        fontsize = 8
+    ]
+
+    "Country20/City2" -> "Country2/City1" [
+        fontsize = 8
+    ]
+
+    "Country21/City1" -> "Country31/City1" [
         fontsize = 8
     ]
 
@@ -994,271 +946,211 @@ digraph RGL__DirectedAdjacencyGraph {
         fontsize = 8
     ]
 
-    "Country20/City3" -> "Country7/City1" [
+    "Country12/City1" -> "Country31/City1" [
         fontsize = 8
     ]
 
-    "Country21/City1" -> "Country21/City8" [
+    "Country13/City1" -> "Country31/City1" [
         fontsize = 8
     ]
 
-    "Country12/City1" -> "Country35/City1" [
+    "Country6/City1" -> "Country31/City1" [
         fontsize = 8
     ]
 
-    "Country13/City1" -> "Country35/City1" [
+    "Country6/City1" -> "Country10/City3" [
         fontsize = 8
     ]
 
-    "Country28/City1" -> "Country35/City1" [
+    "Country28/City1" -> "Country28/City4" [
         fontsize = 8
     ]
 
-    "Country34/City1" -> "Country34/City3" [
+    "Country28/City4" -> "Country28/City1" [
         fontsize = 8
     ]
 
-    "Country11/City1" -> "Country26/City5" [
+    "Country28/City4" -> "Country25/City1" [
         fontsize = 8
     ]
 
-    "Country11/City1" -> "Country35/City1" [
+    "Country11/City1" -> "Country11/City5" [
         fontsize = 8
     ]
 
-    "Country35/City1" -> "Country11/City1" [
+    "Country26/City1" -> "Country31/City1" [
         fontsize = 8
     ]
 
-    "Country35/City1" -> "Country28/City1" [
+    "Country26/City1" -> "Country27/City2" [
         fontsize = 8
     ]
 
-    "Country35/City1" -> "Country29/City1" [
+    "Country4/City1" -> "Country11/City5" [
         fontsize = 8
     ]
 
-    "Country35/City1" -> "Country3/City1" [
+    "Country4/City1" -> "Country31/City1" [
         fontsize = 8
     ]
 
-    "Country35/City1" -> "Country30/City1" [
+    "Country17/City1" -> "Country31/City1" [
         fontsize = 8
     ]
 
-    "Country35/City1" -> "Country8/City1" [
+    "Country18/City1" -> "Country31/City1" [
         fontsize = 8
     ]
 
-    "Country35/City1" -> "Country5/City2" [
+    "Country5/City1" -> "Country31/City1" [
         fontsize = 8
     ]
 
-    "Country35/City1" -> "Country4/City1" [
+    "Country5/City1" -> "Country31/City6" [
         fontsize = 8
     ]
 
-    "Country35/City1" -> "Country31/City1" [
+    "Country27/City2" -> "Country26/City1" [
         fontsize = 8
     ]
 
-    "Country35/City1" -> "Country13/City1" [
+    "Country27/City2" -> "Country27/City3" [
         fontsize = 8
     ]
 
-    "Country35/City1" -> "Country9/City1" [
+    "Country11/City5" -> "Country11/City1" [
         fontsize = 8
     ]
 
-    "Country35/City1" -> "Country7/City1" [
+    "Country11/City5" -> "Country4/City1" [
         fontsize = 8
     ]
 
-    "Country35/City1" -> "Country14/City1" [
+    "Country27/City3" -> "Country27/City2" [
         fontsize = 8
     ]
 
-    "Country35/City1" -> "Country12/City1" [
+    "Country19/City1" -> "Country31/City1" [
         fontsize = 8
     ]
 
-    "Country35/City1" -> "Country6/City7" [
+    "Country19/City1" -> "Country24/City2" [
         fontsize = 8
     ]
 
-    "Country35/City1" -> "Country25/City1" [
+    "Country10/City3" -> "Country10/City6" [
         fontsize = 8
     ]
 
-    "Country35/City1" -> "Country2/City1" [
+    "Country10/City3" -> "Country6/City1" [
         fontsize = 8
     ]
 
-    "Country35/City1" -> "Country1/City1" [
+    "Country31/City1" -> "Country18/City1" [
         fontsize = 8
     ]
 
-    "Country34/City3" -> "Country34/City1" [
+    "Country31/City1" -> "Country21/City1" [
         fontsize = 8
     ]
 
-    "Country34/City3" -> "Country1/City1" [
+    "Country31/City1" -> "Country29/City1" [
         fontsize = 8
     ]
 
-    "Country26/City1" -> "Country26/City4" [
+    "Country31/City1" -> "Country5/City1" [
         fontsize = 8
     ]
 
-    "Country6/City6" -> "Country6/City7" [
+    "Country31/City1" -> "Country30/City1" [
         fontsize = 8
     ]
 
-    "Country4/City1" -> "Country35/City1" [
+    "Country31/City1" -> "Country8/City1" [
         fontsize = 8
     ]
 
-    "Country21/City8" -> "Country21/City1" [
+    "Country31/City1" -> "Country4/City1" [
         fontsize = 8
     ]
 
-    "Country21/City8" -> "Country16/City2" [
+    "Country31/City1" -> "Country13/City1" [
         fontsize = 8
     ]
 
-    "Country6/City7" -> "Country18/City2" [
+    "Country31/City1" -> "Country7/City1" [
         fontsize = 8
     ]
 
-    "Country6/City7" -> "Country6/City6" [
+    "Country31/City1" -> "Country12/City1" [
         fontsize = 8
     ]
 
-    "Country6/City7" -> "Country35/City1" [
+    "Country31/City1" -> "Country22/City1" [
         fontsize = 8
     ]
 
-    "Country27/City1" -> "Country27/City2" [
+    "Country31/City1" -> "Country14/City2" [
         fontsize = 8
     ]
 
-    "Country17/City1" -> "Country17/City4" [
+    "Country31/City1" -> "Country25/City1" [
         fontsize = 8
     ]
 
-    "Country18/City1" -> "Country18/City2" [
+    "Country31/City1" -> "Country23/City1" [
         fontsize = 8
     ]
 
-    "Country5/City1" -> "Country5/City3" [
+    "Country31/City1" -> "Country26/City1" [
         fontsize = 8
     ]
 
-    "Country27/City2" -> "Country23/City8" [
+    "Country31/City1" -> "Country2/City1" [
         fontsize = 8
     ]
 
-    "Country27/City2" -> "Country27/City1" [
+    "Country31/City1" -> "Country31/City6" [
         fontsize = 8
     ]
 
-    "Country26/City4" -> "Country26/City1" [
+    "Country31/City1" -> "Country16/City1" [
         fontsize = 8
     ]
 
-    "Country18/City2" -> "Country18/City1" [
+    "Country31/City1" -> "Country1/City1" [
         fontsize = 8
     ]
 
-    "Country18/City2" -> "Country33/City2" [
+    "Country31/City1" -> "Country19/City1" [
         fontsize = 8
     ]
 
-    "Country18/City2" -> "Country6/City7" [
+    "Country31/City1" -> "Country17/City1" [
         fontsize = 8
     ]
 
-    "Country5/City2" -> "Country35/City1" [
+    "Country31/City1" -> "Country15/City1" [
         fontsize = 8
     ]
 
-    "Country5/City2" -> "Country10/City3" [
+    "Country31/City1" -> "Country6/City1" [
         fontsize = 8
     ]
 
-    "Country26/City5" -> "Country11/City1" [
+    "Country23/City1" -> "Country31/City1" [
         fontsize = 8
     ]
 
-    "Country19/City1" -> "Country19/City2" [
+    "Country10/City6" -> "Country10/City3" [
         fontsize = 8
     ]
 
-    "Country5/City3" -> "Country5/City1" [
+    "Country25/City1" -> "Country28/City4" [
         fontsize = 8
     ]
 
-    "Country19/City2" -> "Country14/City1" [
-        fontsize = 8
-    ]
-
-    "Country19/City2" -> "Country19/City1" [
-        fontsize = 8
-    ]
-
-    "Country17/City4" -> "Country15/City6" [
-        fontsize = 8
-    ]
-
-    "Country17/City4" -> "Country22/City3" [
-        fontsize = 8
-    ]
-
-    "Country17/City4" -> "Country17/City1" [
-        fontsize = 8
-    ]
-
-    "Country10/City1" -> "Country10/City3" [
-        fontsize = 8
-    ]
-
-    "Country10/City3" -> "Country10/City1" [
-        fontsize = 8
-    ]
-
-    "Country10/City3" -> "Country5/City2" [
-        fontsize = 8
-    ]
-
-    "Country10/City3" -> "Country32/City6" [
-        fontsize = 8
-    ]
-
-    "Country31/City1" -> "Country35/City1" [
-        fontsize = 8
-    ]
-
-    "Country33/City1" -> "Country33/City2" [
-        fontsize = 8
-    ]
-
-    "Country32/City1" -> "Country32/City6" [
-        fontsize = 8
-    ]
-
-    "Country23/City1" -> "Country23/City8" [
-        fontsize = 8
-    ]
-
-    "Country33/City2" -> "Country18/City2" [
-        fontsize = 8
-    ]
-
-    "Country33/City2" -> "Country33/City1" [
-        fontsize = 8
-    ]
-
-    "Country25/City1" -> "Country35/City1" [
+    "Country25/City1" -> "Country31/City1" [
         fontsize = 8
     ]
 
@@ -1266,15 +1158,19 @@ digraph RGL__DirectedAdjacencyGraph {
         fontsize = 8
     ]
 
-    "Country3/City1" -> "Country15/City6" [
+    "Country3/City1" -> "Country3/City2" [
         fontsize = 8
     ]
 
-    "Country3/City1" -> "Country35/City1" [
+    "Country15/City1" -> "Country31/City1" [
         fontsize = 8
     ]
 
-    "Country15/City1" -> "Country15/City6" [
+    "Country31/City6" -> "Country5/City1" [
+        fontsize = 8
+    ]
+
+    "Country31/City6" -> "Country31/City1" [
         fontsize = 8
     ]
 
@@ -1282,71 +1178,39 @@ digraph RGL__DirectedAdjacencyGraph {
         fontsize = 8
     ]
 
-    "Country24/City2" -> "Country22/City3" [
+    "Country24/City2" -> "Country19/City1" [
         fontsize = 8
     ]
 
-    "Country16/City1" -> "Country16/City2" [
+    "Country3/City2" -> "Country3/City1" [
         fontsize = 8
     ]
 
-    "Country9/City1" -> "Country35/City1" [
+    "Country3/City2" -> "Country9/City3" [
         fontsize = 8
     ]
 
-    "Country9/City1" -> "Country16/City2" [
+    "Country3/City2" -> "Country2/City1" [
         fontsize = 8
     ]
 
-    "Country32/City6" -> "Country32/City1" [
+    "Country16/City1" -> "Country31/City1" [
         fontsize = 8
     ]
 
-    "Country32/City6" -> "Country10/City3" [
+    "Country9/City1" -> "Country9/City3" [
         fontsize = 8
     ]
 
-    "Country16/City2" -> "Country9/City1" [
+    "Country9/City3" -> "Country3/City2" [
         fontsize = 8
     ]
 
-    "Country16/City2" -> "Country21/City8" [
+    "Country9/City3" -> "Country9/City1" [
         fontsize = 8
     ]
 
-    "Country16/City2" -> "Country16/City1" [
-        fontsize = 8
-    ]
-
-    "Country1/City1" -> "Country35/City1" [
-        fontsize = 8
-    ]
-
-    "Country1/City1" -> "Country34/City3" [
-        fontsize = 8
-    ]
-
-    "Country23/City8" -> "Country7/City1" [
-        fontsize = 8
-    ]
-
-    "Country23/City8" -> "Country23/City1" [
-        fontsize = 8
-    ]
-
-    "Country23/City8" -> "Country27/City2" [
-        fontsize = 8
-    ]
-
-    "Country15/City6" -> "Country17/City4" [
-        fontsize = 8
-    ]
-
-    "Country15/City6" -> "Country3/City1" [
-        fontsize = 8
-    ]
-
-    "Country15/City6" -> "Country15/City1" [
+    "Country1/City1" -> "Country31/City1" [
         fontsize = 8
     ]
 }

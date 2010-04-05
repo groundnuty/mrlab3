@@ -1,5 +1,6 @@
 require 'graph'
 require 'algorithms'
+require 'attacker'
 
 describe Algorithms do
   before(:each) do

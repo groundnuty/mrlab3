@@ -2,3 +2,6 @@ mrlab3
 
 sudo gem install rgl
 sudo apt-get install graphviz
+sudo gem install gruff
+sudo apt-get install libmagickwand-dev
+sudo gem install rmagick

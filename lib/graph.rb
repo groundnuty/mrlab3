@@ -13,6 +13,10 @@ class Graph
     self.nodes = nodes
     self.edges = edges.map { |e| Edge.new(e[0], e[1], e[2]) }
 
+    self.build
+  end
+
+  def build
     self.dg = RGL::DirectedAdjacencyGraph.new
     self.nodes.each do |n|
       self.dg.add_vertex(n.to_s)

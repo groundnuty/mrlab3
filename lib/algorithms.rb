@@ -81,7 +81,7 @@ class Algorithms
       while !stack.empty?
         w_id = stack.pop
         p[w_id].each do |v_id|
-          fi[v_id] += (q[v].to_f/q[w_id].to_f)*(1+fi[w_id])
+          fi[v_id] += (q[v_id].to_f/q[w_id].to_f)*(1+fi[w_id])
         end
         if w_id != s_id
           betweenness[w_id] += fi[w_id]

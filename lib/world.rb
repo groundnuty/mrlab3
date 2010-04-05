@@ -190,7 +190,3 @@ class World
     puts
   end
 end
-
-w = World.new(80,40)
-w.print
-w.create_airport_network
